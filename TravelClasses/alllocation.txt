@@ -1,0 +1,48 @@
+//State,Capital,Distance,avgGasPrice
+Alabama,Montgomery,669,3.836
+Arizona,Pheonix,1047,4.567
+Arkansas,Little Rock,339,3.732
+California,Sacramento,1714,5.696
+Colorado,Denver,782,4.002
+Connecticut,Hartford,1683,3.948
+Delaware,Dover,1444,3.996
+Florida,Tallahassee,856,4.106
+Georgia,Atlanta,802,3.718
+Idaho,Boise,1576,4.412
+Illinois,Springfield,745,4.370
+Indiana,Indianapolis,891,3.927
+Iowa,Des Moines,711,3.859
+Kansas,Topeka,501,3.764
+Kentucky,Frankfort,890,3.815
+Louisiana,Baton Rouge,434,3.869
+Maine,Augusta,1937,4.105
+Maryland,Annapolis,1383,4.050
+Massachusetts,Boston,1781,4.113
+Michigan,Lansing,1134,3.935
+Minnesota,Saint Paul,959,3.883
+Mississippi,Jackson,426,3.783
+Missouri,Jefferson City,571,3.751
+Montana,Helena,1554,4.073
+Nebraska,Lincoln,624,3.873
+Nevada,Carson City,1640,5.078
+New Hampshire,Concord,1812,4.031
+New Jersey,Trenton,1526,4.079
+New Mexico,Santa Fe,627,4.111
+New York, Albany,1670,4.213
+North Carolina, Raleigh,1207,3.841
+North Dakota,Bismarck,1136,3.845
+Ohio,Columbus,1059,3.771
+Oklahoma,Oklahoma City,212,3.780
+Oregon,Salem,2048,4.667
+Pennsylvania,Harrisburg,1403,4.200
+Rhode Island,Providence,1749,4.067
+South Carolina,Columbia,1015,3.788
+South Dakota,Pierre,942,3.932
+Tenessee,Nashville,684,3.863
+Utah,Salt Lake City,1230,4.480
+Vermont,Montpelier,1803,4.088
+Virginia,Richmond,1297,3.960
+Washington,Olympia,2108,4.682
+West Virginia,Charleston,1070,3.949
+Wisconsin,Madison,1008,3.850
+Wyoming,Cheyenne,863,4.119
